@@ -49,4 +49,3 @@ const RelatedProducts = ( {category,subCategory}) => {
 export default RelatedProducts
 
 
-// 3: 26 :1
